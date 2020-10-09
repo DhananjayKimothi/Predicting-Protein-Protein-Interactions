@@ -28,7 +28,7 @@ Within each category, papers are listed in reverse chronological order (newest f
 ### Understanding PPI problem
 
 **Protein–Protein Interactions Essentials: Key Concepts to Building and Analyzing Interactome Networks.**
-Javier De Las Rivas, Celia Fontanillo
+Javier De Las Rivas, Celia Fontanillo.
 *PlosCompBio, June 2010.*
 [[PlosCompBio](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000807)]
 
