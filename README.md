@@ -37,7 +37,7 @@ Benjamin A. Sho  emaker, Anna R. Panchenko.
 **Deciphering Protein-Protein Interactions. Part II. Computational Methods to Predict Protein and Domain Interaction Partners.**  
 Benjamin A. Sho  emaker, Anna R. Panchenko.  
 *PlosCompBio, April 2007.*  
-[[PlosCompBio](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030043]  
+[[PlosCompBio](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030043)]  
 
 
 **Protein–Protein Interactions Essentials: Key Concepts to Building and Analyzing Interactome Networks.**  
