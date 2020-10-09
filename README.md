@@ -6,8 +6,8 @@ Most of the cellular processes are governed by proteins, mostly working in group
 
 This repository is one of the first public (to best of my knowledge) that compiles the papers specific to the protein interaction prediction domain. I hope this repository will be useful for people interested in this field.  
 
-Phase 1: Categorizing Papers in different categories.    
-Phase 2: Providing summary for each of the paper.  
+Phase 1: Categorize Papers in different categories.    
+Phase 2: Provide summary for each of the paper.  
 Phase 3: Keep Updating the repository.    
 
 Status: Pre-Phase1, many changes expected in coming days.  
@@ -19,7 +19,7 @@ It was a long pending thought, used idea from Kevin's repository https://github.
 ### Format
 
 To be finalized. (pending)  
-Currently, categories approximately matches progression in the domain.  
+Currently, categories approximately matches progression in the domain.  In each cateogry papers are arranged in descending order of their publication dates.
 
 ### Categories
 [Understanding PPI problem](#understanding-PPI-problem)  
