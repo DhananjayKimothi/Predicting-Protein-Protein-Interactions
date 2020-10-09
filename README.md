@@ -28,10 +28,20 @@ Currently, categories approximately matches progression in the domain.  In each 
 
 ### Understanding PPI problem
 
+**Deciphering Protein-Protein Interactions. Part I. Experimental Techniques and Databases.**    
+Benjamin A. Sho  emaker, Anna R. Panchenko.  
+*PlosCompBio, March 2007.*  
+[[PlosCompBio](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030042)]    
+
+
+**Deciphering Protein-Protein Interactions. Part II. Computational Methods to Predict Protein and Domain Interaction Partners.**  
+Benjamin A. Sho  emaker, Anna R. Panchenko.  
+*PlosCompBio, April 2007.*  
+[[PlosCompBio](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030043]  
+
+
 **Protein–Protein Interactions Essentials: Key Concepts to Building and Analyzing Interactome Networks.**  
 Javier De Las Rivas, Celia Fontanillo.  
 *PlosCompBio, June 2010.*  
 [[PlosCompBio](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000807)]  
-
-
 
