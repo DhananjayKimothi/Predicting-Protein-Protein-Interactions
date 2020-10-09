@@ -1,4 +1,4 @@
-## paper on Protein-Protein Interactions
+## Papers on Protein-Protein Interactions
 
 ### Background
 
@@ -21,27 +21,15 @@ It was a long pending thought, but looking at Kevin K. Yang repository https://g
 Within each category, papers are listed in reverse chronological order (newest first). Where possible, a link should be provided.
 
 ### Categories
-
-
-[Understanding PPI problem](#understanding PPI problem)
+[Understanding PPI problem](#understanding-PPI-problem)
 [Reviews](#reviews)
-<!---
-[Tools](#tools)  
-[Machine-learning guided directed evolution](#machine-learning-guided-directed-evolution)  
-[Representation learning](#representation-learning)  
-[Unsupervised variant prediction](#unsupervised-variant-prediction)  
-[Generative models](#generative-models)  
-[Predicting stability](#predicting-stability)  
-[Predicting structure from sequence](#predicting-structure-from-sequence)  
-[Predicting sequence from structure](#predicting-sequence-from-structure)  
-[Classification and annotation](#classification-and-annotation)  
-[Predicting interactions with other molecules](#predicting-interactions-with-other-molecules)  
-[Other supervised learning](#other-supervised-learning)
----->
+
 
 ### Understanding PPI problem
-** Protein–Protein Interactions Essentials: Key Concepts to Building and Analyzing Interactome Networks.**
-*PlosCompBio, 2010.*
+
+**Protein–Protein Interactions Essentials: Key Concepts to Building and Analyzing Interactome Networks.**
+Javier De Las Rivas, Celia Fontanillo
+*PlosCompBio, June 2010.*
 [[PlosCompBio](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000807)]
 
 
